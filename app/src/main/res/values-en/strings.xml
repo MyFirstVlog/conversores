@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Converter</string>
+    <string name="conversor">Converter</string>
+    <string name="de">From:</string>
+    <string name="a">"To: "</string>
+    <string name="resultado">"Result:"</string>
+    <string name="valor">Value:</string>
+    <string name="conversion_botton">Convert</string>
+    <string name="valor_deseado">Type the value to convert</string>
+
+
+    <string-array name="argent_spinner">
+        <item> Choose kind of money</item>
+        <item> Peso</item>
+        <item> Euro</item>
+        <item> Pound</item>
+
+    </string-array>
+
+    <string-array name="argent2_spinner">
+        <item> Choose kind of money</item>
+        <item>Peso</item>
+        <item>Euro</item>
+        <item>Pound</item>
+    </string-array>
+
+</resources>
